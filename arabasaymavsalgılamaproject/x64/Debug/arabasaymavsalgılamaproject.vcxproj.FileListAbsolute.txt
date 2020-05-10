@@ -1,0 +1,2 @@
+C:\Users\alper\Desktop\görüntü işleme proje\arabasaymavsalgılamaproject\x64\Debug\arabasaymavsalgılamaproject.exe
+C:\Users\alper\Desktop\görüntü işleme proje\arabasaymavsalgılamaproject\x64\Debug\arabasaymavsalgılamaproject.pdb
